@@ -9,6 +9,6 @@ const headerBg = () => {
         else {
             header.classList.remove("bg-reveal");
         }
-    })
+    });
 }
 headerBg();
